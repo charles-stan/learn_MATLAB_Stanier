@@ -1,0 +1,13 @@
+Supplemental Material for:
+
+Introduction to Numerical and Analytical Methods with MATLAB for Engineers and Scientists
+
+By William Bober
+
+Sept. 24, 2013
+
+
+This ZIP file contains all of the examples from the text and is
+obtainable from:
+
+http://www.crcpress.com/product/isbn/9781466576025
